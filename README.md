@@ -29,8 +29,8 @@ Run the program:
 ```
 -width=500
 -height=500
--rows=100
--columns=100
+-rows=20
+-columns=20
 -threshold=0.15
 -fps=60
 ```
