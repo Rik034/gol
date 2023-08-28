@@ -15,7 +15,7 @@ git clone https://github.com/rik034/gol
 Install the dependencies:
 
 ```bash
-go mod tidy
+go mod downlaod
 ```
 
 Run the program:
